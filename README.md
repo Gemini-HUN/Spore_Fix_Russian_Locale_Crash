@@ -1,5 +1,5 @@
 # Spore_Fix_Russian_Locale_Crash
-I made this mod for Russians that want play Spore in Russian locale.
+I made this mod for Russian players that want play Spore in Russian locale.
 
 
 * Required en_us localization! This mod work in Russian language!
