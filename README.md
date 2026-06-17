@@ -1,5 +1,5 @@
 # Spore_Fix_Russian_Locale_Crash
-* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square)
+* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square&color=d81b60&icon=github)
 
 I made this mod for Russian players that want play Spore in Russian locale without crash.
 
