@@ -1,14 +1,15 @@
 # Spore_Fix_Russian_Locale_Crash
 ### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_Fix_Russian_Locale_Crash?style=flat-square&color=d81b60&icon=github)
 
-I made this mod for Russian players that want play Spore in Russian locale without crash.
+I created this mod for Russian players who want to play Spore in Russian without the game crashing.
 
 
-* Required en_us localization! This mod work in Russian language!
-* This mod add the Russian texts and UIs to en-us locale.
-* Some online features will be English because of the game use en-us locale.
+* Requires the en-us localization.
+* Allows the game to run in Russian while using the en-us locale internally.
+* Adds Russian texts and UI elements to the en-us locale.
+* Some online features will remain in English because the game uses the en-us locale.
 
 ### Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) — already integrated into this mod.
 
-This just based on my another mod that work for Hungarian money bug.
+This mod is based on another mod of mine that was originally created to fix the Hungarian money bug.
