@@ -8,6 +8,7 @@ I made this mod for Russian players that want play Spore in Russian locale witho
 * This mod add the Russian texts and UIs to en-us locale.
 * Some online features will be English because of the game use en-us locale.
 
-This mod need testing and feedback!
+### Not compatible with
+* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) instead I'm injected it
 
 This just based on my another mod that work for Hungarian money bug.
