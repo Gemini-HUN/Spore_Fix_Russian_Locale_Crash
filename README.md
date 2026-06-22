@@ -3,7 +3,7 @@
 
 I created this mod for Russian players who want to play Spore in Russian without the game crashing.
 
-## Requires the en-us localization.
+## Requirement the en-us localization.
 
 * Allows the game to run in Russian while using the en-us locale internally.
 * Adds Russian texts and UI elements to the en-us locale.
