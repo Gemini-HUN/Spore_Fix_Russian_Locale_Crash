@@ -11,5 +11,6 @@ I created this mod for Russian players who want to play Spore in Russian without
 
 ### Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) — already integrated into this mod.
+* Other localization mods
 
 This mod is based on another mod of mine that was originally created to fix the Hungarian money bug.
