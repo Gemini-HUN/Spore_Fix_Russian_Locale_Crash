@@ -3,6 +3,9 @@
 
 I created this mod for Russian players who want to play Spore in Russian without the game crashing.
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 ## Requires the en-us localization.
 
 * Allows the game to run in Russian while using the en-us locale internally.
